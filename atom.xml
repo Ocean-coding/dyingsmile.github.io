@@ -5,9 +5,9 @@
   <subtitle>小洋糕</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://dyingsmile.github.io/"/>
+  <link href="http://smile_wy.gitee.io/xiaoyangao/"/>
   <updated>2020-02-08T13:19:49.103Z</updated>
-  <id>http://dyingsmile.github.io/</id>
+  <id>http://smile_wy.gitee.io/xiaoyangao/</id>
   
   <author>
     <name>小洋糕</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://dyingsmile.github.io/2020/02/08/hello-world/"/>
-    <id>http://dyingsmile.github.io/2020/02/08/hello-world/</id>
+    <link href="http://smile_wy.gitee.io/xiaoyangao/2020/02/08/hello-world/"/>
+    <id>http://smile_wy.gitee.io/xiaoyangao/2020/02/08/hello-world/</id>
     <published>2020-02-08T13:19:49.103Z</published>
     <updated>2020-02-08T13:19:49.103Z</updated>
     
