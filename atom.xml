@@ -3,10 +3,10 @@
   <title>小洋糕</title>
   
   <subtitle>小洋糕</subtitle>
-  <link href="/my_blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://smile_wy.gitee.io/my_blog/"/>
-  <updated>2020-02-08T13:19:49.103Z</updated>
+  <updated>2020-02-10T05:34:03.354Z</updated>
   <id>http://smile_wy.gitee.io/my_blog/</id>
   
   <author>
@@ -15,6 +15,68 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端博客</title>
+    <link href="http://smile_wy.gitee.io/my_blog/2020/02/10/qian-duan/qian-duan-bo-ke/"/>
+    <id>http://smile_wy.gitee.io/my_blog/2020/02/10/qian-duan/qian-duan-bo-ke/</id>
+    <published>2020-02-10T03:22:52.690Z</published>
+    <updated>2020-02-10T05:34:03.354Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;小洋糕&quot;&gt;&lt;a href=&quot;#小洋糕&quot; class=&quot;headerlink&quot; title=&quot;小洋糕&quot;&gt;&lt;/a&gt;小洋糕&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="http://smile_wy.gitee.io/my_blog/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="css" scheme="http://smile_wy.gitee.io/my_blog/tags/css/"/>
+    
+      <category term="html" scheme="http://smile_wy.gitee.io/my_blog/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一个博客</title>
+    <link href="http://smile_wy.gitee.io/my_blog/2020/02/10/di-yi-ge-bo-ke/"/>
+    <id>http://smile_wy.gitee.io/my_blog/2020/02/10/di-yi-ge-bo-ke/</id>
+    <published>2020-02-10T03:00:29.945Z</published>
+    <updated>2020-02-10T05:34:26.872Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://smile_wy.gitee.io/my_blog/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://smile_wy.gitee.io/my_blog/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://smile_wy.gitee.io/my_blog/tags/Markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
